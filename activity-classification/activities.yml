@@ -1,0 +1,12 @@
+name: Activities-PyTorch
+dependencies:
+  - python=3.6.2
+  - pip:
+    - azureml-defaults
+    - azureml-core
+    - azureml-contrib-dataset
+    - azureml-dataprep[pandas,fuse]
+    - inference-schema[numpy-support]
+    - torch
+    - torchvision
+    - pillow
