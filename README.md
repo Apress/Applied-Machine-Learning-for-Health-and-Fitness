@@ -5,7 +5,7 @@ This repository accompanies [*Applied Machine Learning for Health and Fitness:  
 [comment]: #cover
 ![Cover image](9781484257715.jpg)
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git. Explore notebooks in this book by starting [here](_StartHere_.ipynb)  
+Download the files as a zip using the green button, or clone the repository to your machine using Git. Get started with [notebooks](_StartHere_.ipynb) [video course].  
 
 ## Releases
 
